@@ -46,4 +46,10 @@ group :development do
 end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+   # Installs bootstrap elements gem from seyhunak's github.  twitter-clone tbh, but maybe other elements exist?
+
+
+gem "font-awesome-rails"
+   # adding font gem
+
 
