@@ -55,3 +55,6 @@ gem "font-awesome-rails"
 gem "simple_form"
    #adds easy sing-in form
 
+gem 'devise'
+   # Adds user authentication
+
